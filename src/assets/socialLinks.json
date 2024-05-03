@@ -1,16 +1,20 @@
-[{
-    name: "微信公众号",
-    icon: "/images/icon/LogoWechat.png",
-    tip: "搜索【hfr1107】",
-    url: ""
-}, {
-    name: "Telegram群组",
-    icon: "/images/icon/telegram.png",
-    tip: "进来扯淡啊！",
-    url: "https://t.me/+1veoBnxHKFgwZTVl"
-}, {
-    name: "放牛娃接口",
-    icon: "/images/icon/twitter.png",
-    tip: "http://hfr1107.top",
-    url: ""
-}]
+[
+{
+    "name": "微信公众号",
+    "icon": "/images/icon/LogoWechat.png",
+    "tip": "搜索【hfr1107】",
+    "url": ""
+},
+{
+    "name": "Telegram群组",
+    "icon": "/images/icon/telegram.png",
+    "tip": "进来扯淡啊！",
+    "url": "https://t.me/+1veoBnxHKFgwZTVl"
+},
+{
+    "name": "hfr1107",
+    "icon": "/images/icon/twitter.png",
+    "tip": "http://hfr1107.top",
+    "url": ""
+}
+]
