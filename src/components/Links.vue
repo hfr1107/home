@@ -77,7 +77,23 @@ const jumpLink = (data) => {
   if (data.name === "音乐" && store.musicClick) {
     if (typeof $openList === "function") $openList();
   } else {
-    window.open(data.link, "_blank");
+    if (data.name.includes("接口")) {
+                                        var n = document.createElement("textarea");
+                                        n.value = data.link,
+                                        document.body.appendChild(n),
+                                        n.focus(),
+                                        n.select();
+                                        try {
+                                            document.execCommand("copy"),
+                                            oh({
+                                                message: "复制成功,请直接粘贴到软件接口处使用!",
+                                                grouping: !0,
+                                                duration: 2e3
+                                            })
+                                        } catch (o) {}
+                                        document.body.removeChild(n)
+                                    } else
+                                        window.open(data.link, "_blank")
   }
 };
 
