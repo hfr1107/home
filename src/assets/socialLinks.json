@@ -1,8 +1,8 @@
 [
 {
-    "name": "微信公众号",
-    "icon": "/images/icon/telegram.png",
-    "tip": "搜索【hfr1107】",
+    "name": "QQ",
+    "icon": "/images/icon/qq.png",
+    "tip": "QQ",
     "url": ""
 },
 {
@@ -14,7 +14,7 @@
 {
     "name": "hfr1107",
     "icon": "/images/icon/twitter.png",
-    "tip": "http://hfr1107.top",
+    "tip": "http://tv.hfr.free.nf/index.html",
     "url": ""
 }
 ]
