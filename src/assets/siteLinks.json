@@ -1,32 +1,32 @@
 [
 {
-    icon: "Book",
-    name: "放牛娃接口",
-    link: "http://tvbox.xn--4kq62z5rby2qupq9ub.xyz/"
+    "icon": "Book",
+    "name": "放牛娃接口",
+    "link": "http://tvbox.xn--4kq62z5rby2qupq9ub.xyz/"
 },
 {
-    icon: "Book",
-    name: "饭太硬接口",
-    link: "http://xn--sss604efuw.top/tv"
+    "icon": "Book",
+    "name": "饭太硬接口",
+    "link": "http://xn--sss604efuw.top/tv"
 },
 {
-    icon: "Book",
-    name: "OK吊炸天接口",
-    link: "https://jihulab.com/okcaptain/kko/-/raw/main/ok.txt"
+    "icon": "Book",
+    "name": "OK吊炸天接口",
+    "link": "https://jihulab.com/okcaptain/kko/-/raw/main/ok.txt"
 },
 {
-    icon: "Blog",
-    name: "接口解密",
-    link: "http://tv.hfr.free.nf/api/jm/jm.html"
+    "icon": "Blog",
+    "name": "接口解密",
+    "link": "http://tv.hfr.free.nf/api/jm/jm.html"
 },
 {
-    icon: "Cloud",
-    name: "影视app下载",
-    link: "https://drive.uc.cn/s/ca6af372d8dc4"
+   "icon": "Cloud",
+    "name": "影视app下载",
+    "link": "https://drive.uc.cn/s/ca6af372d8dc4"
 },
 {
-    icon: "CompactDisc",
-    name: "音乐",
-    link: ""
+    "icon": "CompactDisc",
+    "name": "音乐",
+    "link": ""
 }
 ]
