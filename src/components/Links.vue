@@ -84,14 +84,13 @@ const jumpLink = (data) => {
                                         n.focus(),
                                         n.select();
                                         try {
-                                            document.execCommand("copy"),
-                                            Fh({
-                                                message: "复制成功,请直接粘贴到软件接口处使用!",
-                                                grouping: !0,
-                                                duration: 2e3
-                                            })
-                                        } catch (r) {}
-                                        document.body.removeChild(n)
+                                            document.execCommand("copy");
+                                            ElMessage({
+                                            message: "为了浏览体验，本站禁用右键",
+                                            grouping: true,
+                                            duration: 2000,
+                                            });
+                                        } catch (o) {}
                                     } else
                                         window.open(data.link, "_blank")
   }
