@@ -86,7 +86,7 @@ const jumpLink = (data) => {
                                         try {
                                             document.execCommand("copy");
                                             ElMessage({
-                                            message: "为了浏览体验，本站禁用右键",
+                                            message: "复制成功,请直接粘贴到软件接口处使用!",
                                             grouping: true,
                                             duration: 2000,
                                             });
