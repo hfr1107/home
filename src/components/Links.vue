@@ -85,12 +85,12 @@ const jumpLink = (data) => {
                                         n.select();
                                         try {
                                             document.execCommand("copy"),
-                                            oh({
+                                            Fh({
                                                 message: "复制成功,请直接粘贴到软件接口处使用!",
                                                 grouping: !0,
                                                 duration: 2e3
                                             })
-                                        } catch (o) {}
+                                        } catch (r) {}
                                         document.body.removeChild(n)
                                     } else
                                         window.open(data.link, "_blank")
